@@ -1,0 +1,48 @@
+C:\Users\Mind\Desktop\Dev Тех\ISRPO\Kurs\bin\Debug\net8.0-windows\Kurs.exe
+C:\Users\Mind\Desktop\Dev Тех\ISRPO\Kurs\bin\Debug\net8.0-windows\Kurs.deps.json
+C:\Users\Mind\Desktop\Dev Тех\ISRPO\Kurs\bin\Debug\net8.0-windows\Kurs.runtimeconfig.json
+C:\Users\Mind\Desktop\Dev Тех\ISRPO\Kurs\bin\Debug\net8.0-windows\Kurs.dll
+C:\Users\Mind\Desktop\Dev Тех\ISRPO\Kurs\bin\Debug\net8.0-windows\Kurs.pdb
+C:\Users\Mind\Desktop\Dev Тех\ISRPO\Kurs\obj\Debug\net8.0-windows\Kurs.Form1.resources
+C:\Users\Mind\Desktop\Dev Тех\ISRPO\Kurs\obj\Debug\net8.0-windows\Kurs.csproj.GenerateResource.cache
+C:\Users\Mind\Desktop\Dev Тех\ISRPO\Kurs\obj\Debug\net8.0-windows\Kurs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mind\Desktop\Dev Тех\ISRPO\Kurs\obj\Debug\net8.0-windows\Kurs.AssemblyInfoInputs.cache
+C:\Users\Mind\Desktop\Dev Тех\ISRPO\Kurs\obj\Debug\net8.0-windows\Kurs.AssemblyInfo.cs
+C:\Users\Mind\Desktop\Dev Тех\ISRPO\Kurs\obj\Debug\net8.0-windows\Kurs.csproj.CoreCompileInputs.cache
+C:\Users\Mind\Desktop\Dev Тех\ISRPO\Kurs\obj\Debug\net8.0-windows\Kurs.dll
+C:\Users\Mind\Desktop\Dev Тех\ISRPO\Kurs\obj\Debug\net8.0-windows\refint\Kurs.dll
+C:\Users\Mind\Desktop\Dev Тех\ISRPO\Kurs\obj\Debug\net8.0-windows\Kurs.pdb
+C:\Users\Mind\Desktop\Dev Тех\ISRPO\Kurs\obj\Debug\net8.0-windows\Kurs.genruntimeconfig.cache
+C:\Users\Mind\Desktop\Dev Тех\ISRPO\Kurs\obj\Debug\net8.0-windows\ref\Kurs.dll
+C:\Users\Maxim\OneDrive - Орский гуманитарно-технологический институт (филиал) ОГУ\Kurs\bin\Debug\net8.0-windows\Kurs.exe
+C:\Users\Maxim\OneDrive - Орский гуманитарно-технологический институт (филиал) ОГУ\Kurs\bin\Debug\net8.0-windows\Kurs.deps.json
+C:\Users\Maxim\OneDrive - Орский гуманитарно-технологический институт (филиал) ОГУ\Kurs\bin\Debug\net8.0-windows\Kurs.runtimeconfig.json
+C:\Users\Maxim\OneDrive - Орский гуманитарно-технологический институт (филиал) ОГУ\Kurs\bin\Debug\net8.0-windows\Kurs.dll
+C:\Users\Maxim\OneDrive - Орский гуманитарно-технологический институт (филиал) ОГУ\Kurs\bin\Debug\net8.0-windows\Kurs.pdb
+C:\Users\Maxim\OneDrive - Орский гуманитарно-технологический институт (филиал) ОГУ\Kurs\obj\Debug\net8.0-windows\Kurs.Form1.resources
+C:\Users\Maxim\OneDrive - Орский гуманитарно-технологический институт (филиал) ОГУ\Kurs\obj\Debug\net8.0-windows\Kurs.csproj.GenerateResource.cache
+C:\Users\Maxim\OneDrive - Орский гуманитарно-технологический институт (филиал) ОГУ\Kurs\obj\Debug\net8.0-windows\Kurs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maxim\OneDrive - Орский гуманитарно-технологический институт (филиал) ОГУ\Kurs\obj\Debug\net8.0-windows\Kurs.AssemblyInfoInputs.cache
+C:\Users\Maxim\OneDrive - Орский гуманитарно-технологический институт (филиал) ОГУ\Kurs\obj\Debug\net8.0-windows\Kurs.AssemblyInfo.cs
+C:\Users\Maxim\OneDrive - Орский гуманитарно-технологический институт (филиал) ОГУ\Kurs\obj\Debug\net8.0-windows\Kurs.csproj.CoreCompileInputs.cache
+C:\Users\Maxim\OneDrive - Орский гуманитарно-технологический институт (филиал) ОГУ\Kurs\obj\Debug\net8.0-windows\Kurs.dll
+C:\Users\Maxim\OneDrive - Орский гуманитарно-технологический институт (филиал) ОГУ\Kurs\obj\Debug\net8.0-windows\refint\Kurs.dll
+C:\Users\Maxim\OneDrive - Орский гуманитарно-технологический институт (филиал) ОГУ\Kurs\obj\Debug\net8.0-windows\Kurs.pdb
+C:\Users\Maxim\OneDrive - Орский гуманитарно-технологический институт (филиал) ОГУ\Kurs\obj\Debug\net8.0-windows\Kurs.genruntimeconfig.cache
+C:\Users\Maxim\OneDrive - Орский гуманитарно-технологический институт (филиал) ОГУ\Kurs\obj\Debug\net8.0-windows\ref\Kurs.dll
+C:\Users\Mind\OneDrive - Орский гуманитарно-технологический институт (филиал) ОГУ\Kurs\obj\Debug\net8.0-windows\Kurs.Form1.resources
+C:\Users\Mind\OneDrive - Орский гуманитарно-технологический институт (филиал) ОГУ\Kurs\obj\Debug\net8.0-windows\Kurs.csproj.GenerateResource.cache
+C:\Users\Mind\OneDrive - Орский гуманитарно-технологический институт (филиал) ОГУ\Kurs\obj\Debug\net8.0-windows\Kurs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mind\OneDrive - Орский гуманитарно-технологический институт (филиал) ОГУ\Kurs\obj\Debug\net8.0-windows\Kurs.AssemblyInfoInputs.cache
+C:\Users\Mind\OneDrive - Орский гуманитарно-технологический институт (филиал) ОГУ\Kurs\obj\Debug\net8.0-windows\Kurs.AssemblyInfo.cs
+C:\Users\Mind\OneDrive - Орский гуманитарно-технологический институт (филиал) ОГУ\Kurs\obj\Debug\net8.0-windows\Kurs.csproj.CoreCompileInputs.cache
+C:\Users\Mind\OneDrive - Орский гуманитарно-технологический институт (филиал) ОГУ\Kurs\obj\Debug\net8.0-windows\Kurs.dll
+C:\Users\Mind\OneDrive - Орский гуманитарно-технологический институт (филиал) ОГУ\Kurs\obj\Debug\net8.0-windows\refint\Kurs.dll
+C:\Users\Mind\OneDrive - Орский гуманитарно-технологический институт (филиал) ОГУ\Kurs\obj\Debug\net8.0-windows\Kurs.pdb
+C:\Users\Mind\OneDrive - Орский гуманитарно-технологический институт (филиал) ОГУ\Kurs\bin\Debug\net8.0-windows\Kurs.exe
+C:\Users\Mind\OneDrive - Орский гуманитарно-технологический институт (филиал) ОГУ\Kurs\bin\Debug\net8.0-windows\Kurs.deps.json
+C:\Users\Mind\OneDrive - Орский гуманитарно-технологический институт (филиал) ОГУ\Kurs\bin\Debug\net8.0-windows\Kurs.runtimeconfig.json
+C:\Users\Mind\OneDrive - Орский гуманитарно-технологический институт (филиал) ОГУ\Kurs\bin\Debug\net8.0-windows\Kurs.dll
+C:\Users\Mind\OneDrive - Орский гуманитарно-технологический институт (филиал) ОГУ\Kurs\bin\Debug\net8.0-windows\Kurs.pdb
+C:\Users\Mind\OneDrive - Орский гуманитарно-технологический институт (филиал) ОГУ\Kurs\obj\Debug\net8.0-windows\Kurs.genruntimeconfig.cache
+C:\Users\Mind\OneDrive - Орский гуманитарно-технологический институт (филиал) ОГУ\Kurs\obj\Debug\net8.0-windows\ref\Kurs.dll
