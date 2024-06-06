@@ -12,8 +12,7 @@ namespace Kurs
             ToolTip b = new ToolTip();
             b.SetToolTip(button2, "Заполнить таблицу случайными числами.");
             ToolTip c = new ToolTip();
-            c.SetToolTip(button3, "Принять решение на основе выбранного метода.");
-            ToolTip d = new ToolTip();
+            c.SetToolTip(button3, "Принять решение на основе выбранного метода."); ToolTip d = new ToolTip();
             d.SetToolTip(button1, "Очистить таблицу.");
             ToolTip e = new ToolTip();
             e.SetToolTip(button5, "Добавить строку в таблицу ввода данных.");
